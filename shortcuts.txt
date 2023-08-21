@@ -1,0 +1,8 @@
+ctrl + ` = terminal show/hide
+ctrl + b = show hide sidebar
+ctrl + p = open file
+ctrl + p and type :number to jump to the line number
+ctrl shift + p : command pallet
+ctrl + p and @ to jump to the tags 
+Alt + z  : toggle wrap => if you have small screen and code not seen clearly. 
+code will custum itself to fit in the required screen.
