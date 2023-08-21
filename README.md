@@ -11,3 +11,5 @@ for now I know
 3. javascript
 4. css
 5. HTML
+
+I am an computer enginer graduated from mid-west university. I love to code when i was a freshman at enginering college.
