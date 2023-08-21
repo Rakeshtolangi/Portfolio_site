@@ -1,2 +1,3 @@
 # student-name-site
- This is a demo website which showcase my projects
+ This is my personal portfolio in making. 
+ This will showcase all my projects.
