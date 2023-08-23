@@ -1,10 +1,10 @@
 # student-portfolio
 
-This is a demo website which showcase my projects
+This is a website that showcases my projects
 
-Hay! Welcome to the my portfolio. It's comming up in upcomming days when i learn all the roadmaps with Tanay Pratap live on Youtube / neogcammp.
+Hay! Welcome to my portfolio. It's coming up in the upcoming days when I learn all the roadmaps with Tanay Pratap live on Youtube / neogcammp.
 
-for now I know
+for now, I know
 
 1. Python
 2. Django
@@ -12,4 +12,4 @@ for now I know
 4. css
 5. HTML
 
-I am an computer enginer graduated from mid-west university. I love to code when i was a freshman at enginering college.
+I am a computer engineer who graduated from mid-west University. I love to code, and I started coding when I was a freshman at an engineering college.
